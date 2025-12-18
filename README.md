@@ -1,5 +1,5 @@
 ````
-# TDFusion
+# CLIP-Mamba
 Codes for ***CNN-MAMBA NETWORK WITH CLIP-BASED SEMANTIC ALIGNMENT FOR ANATOMICAL AND FUNCTIONAL IMAGE FUSION***
 
 ## Abstract
@@ -15,10 +15,7 @@ boundaries and highlights functional signals, achieving superior semantic consis
 
 ## Citation
 
-```
-
 ## 🌐 Usage
-
 ### 🏊 Training
 **1. Data Preparation**
 
@@ -43,5 +40,6 @@ Running
 python test.py
 ``` 
 will fuse these cases, and the fusion results will be saved in the 'output' folder.
+
 
 ````
